@@ -1,0 +1,41 @@
+header {
+    background-color: #FEFFBE;
+  }
+  
+  body {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto
+  }
+  
+  .bg-body-tertiary {
+    background-color: #393e41
+  }
+  
+  main {
+    background-color: #d2d6ef
+  }
+  
+  .btn-primary {
+    background-color: #393e41
+  }
+  
+  .card-header {
+    background-color: #393e41
+  }
+  
+  .card-header {
+    color: white;
+  }
+  
+/*  body > * {
+    /* border: 5px solid purple; */
+  
+  
+  
+  .navbar-brand span {
+    display: inline-block;
+    transform: rotate(35deg);
+    margin: 0 5px
+  }
+  
